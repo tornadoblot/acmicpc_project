@@ -357,8 +357,44 @@
     <ClCompile Include="1260.cpp">
       <Filter>소스 파일\~4999\~1999</Filter>
     </ClCompile>
-    <ClCompile Include="9663.cpp">
+    <ClCompile Include="2178.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="2748.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="18258.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\~4999\~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="1021.cpp">
+      <Filter>소스 파일\~4999\~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="1904.cpp">
+      <Filter>소스 파일\~4999\~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="5430.cpp">
       <Filter>소스 파일\~9999</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>소스 파일\~4999\~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>소스 파일\~4999\~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="2558.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="10953.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="15740.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10757.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
