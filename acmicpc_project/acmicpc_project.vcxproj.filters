@@ -396,5 +396,35 @@
     <ClCompile Include="10757.cpp">
       <Filter>소스 파일\~14999\~10999</Filter>
     </ClCompile>
+    <ClCompile Include="7662.cpp">
+      <Filter>소스 파일\~9999</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10926.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="18108.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11382.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2525.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="2480.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="25304.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25314.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10807.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
