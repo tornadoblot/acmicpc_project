@@ -246,9 +246,6 @@
     <ClCompile Include="1436.cpp">
       <Filter>소스 파일\~4999\~1999</Filter>
     </ClCompile>
-    <ClCompile Include="14681.cpp">
-      <Filter>소스 파일\~14999\~10999</Filter>
-    </ClCompile>
     <ClCompile Include="2523.cpp">
       <Filter>소스 파일\~4999\~2999</Filter>
     </ClCompile>
@@ -320,9 +317,6 @@
     </ClCompile>
     <ClCompile Include="2750.cpp">
       <Filter>소스 파일\~4999\~2999</Filter>
-    </ClCompile>
-    <ClCompile Include="11050.cpp">
-      <Filter>소스 파일\~14999\~10999</Filter>
     </ClCompile>
     <ClCompile Include="11650.cpp">
       <Filter>소스 파일\~14999</Filter>
@@ -408,9 +402,6 @@
     <ClCompile Include="18108.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11382.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2525.cpp">
       <Filter>소스 파일\~4999\~2999</Filter>
     </ClCompile>
@@ -423,17 +414,41 @@
     <ClCompile Include="25314.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10807.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="asdf.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5597.cpp">
+      <Filter>소스 파일\~9999</Filter>
+    </ClCompile>
+    <ClCompile Include="10807.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
     <ClCompile Include="10810.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\~14999\~10999</Filter>
     </ClCompile>
     <ClCompile Include="10813.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="11050.cpp">
+      <Filter>소스 파일\~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="14681.cpp">
+      <Filter>소스 파일\~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="11382.cpp">
+      <Filter>소스 파일\~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="10811.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="27866.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2743.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="9086.cpp">
+      <Filter>소스 파일\~9999</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
