@@ -471,5 +471,14 @@
     <ClCompile Include="2738.cpp">
       <Filter>소스 파일\~4999\~2999</Filter>
     </ClCompile>
+    <ClCompile Include="2566.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="10798.cpp">
+      <Filter>소스 파일\~14999\~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="2563.cpp">
+      <Filter>소스 파일\~4999\~2999</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
